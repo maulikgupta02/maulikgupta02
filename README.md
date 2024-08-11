@@ -30,7 +30,7 @@
 - **Author on Medium**: Sharing insights on technology, AI, and more.
 
 ## 📈 GitHub Stats
-[![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=motu-gupta&show_icons=true&theme=radical)](https://github.com/maulikgupta02)
+[![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulikgupta02&show_icons=true&theme=radical)](https://github.com/maulikgupta02)
 
 ## 🌐 Connect with Me
 - **LinkedIn**: [https://www.linkedin.com/in/maulik-gupta-b69a71222/](https://www.linkedin.com/in/maulik-gupta-b69a71222/)
