@@ -1,4 +1,11 @@
-# Hi there 👋, I'm Maulik Gupta!
+<h1 style="opacity: 0; animation: fadeIn 3s forwards;">Hi there 👋, I'm Maulik Gupta!</h1>
+
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+</style>
 
 ## 🚀 About Me
 - 🎓 I'm a 4th-year Computer Engineering student at Thapar Institute of Engineering and Technology.
