@@ -1,38 +1,120 @@
-# Hi there 👋, I'm Maulik Gupta!
+# Hi there 👋, I'm Maulik Gupta
 
-## 🚀 About Me
-- 🎓 I'm a 4th-year Computer Engineering student at Thapar Institute of Engineering and Technology.
-- 💻 My background is in Data Science, with a focus on AI and Robotics.
-- 🌱 Currently diving into web and app development.
-- 💡 Passionate about AI, robotics, and the intersection of technology and innovation.
-- 🌍 Based in Patiala, Punjab, India.
-- 📫 How to reach me: guptamaulik16@gmail.com
+### Software Engineer | AI Builder | Problem Solver
 
-## 🛠️ Skills & Tools
-- **Languages**: Python, C++, JavaScript
-- **Back End**: Flask, Node.js, Express.js
-- **Front End**: HTML, CSS, React.js, Angular.js
-- **DBMS**: MySQL, MongoDB
-- **AI**: Data Analytics, Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, Computer Vision, Generative AI, MLOps
-- **OS**: Windows, Linux (Ubuntu)
-- **Tools**: Microsoft Power BI, Tableau
-- **Miscellaneous**: Web Scraping, OpenAI API, Web Automation, Google Workspace, Langchain
+I'm a Software Development Engineer at Tata 1mg with experience building scalable products, AI-powered systems, and end-to-end applications.
 
-## 📚 Publications
-- **A Novel Approach to Predict the Water Leakage in the Distribution System** (in review)
-- **AUTOENCODE-KNEE: Automatic Feature Extraction Using CNN-based Autoencoder from Time-Frequency Distribution of Knee Joint** (in review)
-- **A Comparative Study of Machine Learning Algorithms for Leishmanial Activity Prediction Based on Molecular Fingerprints** (in review)
-- **Asynchronous Federated Learning for Predicting Lung Cancer** (ongoing research)
-- **Development of Activity Recognition Framework Based on Deep Learning in the Real-time Environment** (ongoing research)
+Over the past few years, I've worked across healthcare, enterprise AI, fintech, and public-sector technology—building solutions that range from production backend services and mobile applications to intelligent AI assistants and automation platforms.
 
-## 🎓 Extracurricular Activities
-- **SIH’23 Finalist**: Participated in the Smart India Hackathon 2023.
-- **Author on Medium**: Sharing insights on technology, AI, and more.
+I enjoy solving challenging engineering problems, shipping products that people actually use, and exploring how AI can create real-world value.
 
-## 📈 GitHub Stats
-[![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=maulikgupta02&show_icons=true&locale=en&layout=compact&theme=algolia)](https://github.com/maulikgupta02)
+---
 
-## 🌐 Connect with Me
-- **LinkedIn**: [https://www.linkedin.com/in/maulik-gupta-b69a71222/](https://www.linkedin.com/in/maulik-gupta-b69a71222/)
-- **Medium**: [https://medium.com/@maulik-gupta](https://medium.com/@maulik-gupta)
-- **Email**: guptamaulik16@gmail.com
+## 🚀 What I'm Currently Focused On
+
+* Building reliable and scalable software systems
+* Exploring AI agents and practical GenAI applications
+* Developing modern web and mobile products
+* Contributing to open-source and side projects
+* Writing about technology and software engineering
+
+---
+
+## 💼 Experience
+
+### Tata 1mg
+
+Software Development Engineer
+
+Working on large-scale backend systems, performance optimization, reliability improvements, developer productivity, and AI-driven internal tooling.
+
+### IIT Delhi
+
+Developed and launched the iOS version of the IITD Aab Prahari application, helping improve flood and waterlogging reporting capabilities under the Water Security Hub initiative.
+
+### Orange Business
+
+Built enterprise AI solutions including RAG-based assistants and intelligent candidate assessment systems using modern LLM technologies.
+
+### AlphanumericIdeas
+
+Automated data collection and reporting workflows, reducing significant manual effort through software and AI-powered automation.
+
+---
+
+## 🛠️ Technologies I Work With
+
+**Languages**
+
+Python • JavaScript • C++ • SQL
+
+**Backend**
+
+Node.js • Express • FastAPI • REST APIs • Microservices
+
+**Frontend & Mobile**
+
+React • React Native • HTML • CSS
+
+**Databases**
+
+MongoDB • MySQL • PostgreSQL • Redis
+
+**Cloud & DevOps**
+
+AWS • Docker • CI/CD
+
+**AI & Data**
+
+Generative AI • LangChain • OpenAI • RAG Systems • NLP • Machine Learning • Computer Vision
+
+---
+
+## 🌟 Selected Projects
+
+### Sakshaya
+
+A blockchain-powered e-notarization platform designed to improve transparency, accessibility, and trust in digital documentation workflows.
+
+### WealthWise
+
+An AI-powered platform that helps users discover government welfare schemes and evaluate financial recommendations through data-driven insights.
+
+### AI Assistants & Enterprise Automation
+
+Built multiple AI-powered tools for knowledge retrieval, document intelligence, candidate screening, and workflow automation.
+
+---
+
+## 📚 Publications & Research
+
+* Blockchain-based Notarization System (Patent Filed)
+* Harnessing Ensemble Algorithms for Diabetes Prediction
+* Ensemble Techniques for Leishmanial Activity Prediction
+* AUTOENCODE-KNEE: Feature Extraction from Knee Joint Time-Frequency Data
+
+---
+
+## 🏆 Highlights
+
+* Software Development Engineer at Tata 1mg
+* Smart India Hackathon 2023 Finalist
+* Smart India Hackathon 2024 Mentor
+* Contributor to IIT Delhi's Water Security Hub initiative
+* Published researcher and patent contributor
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [guptamaulik16@gmail.com](mailto:guptamaulik16@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/maulik-gupta-b69a71222
+
+💻 GitHub: github.com/maulikgupta02
+
+✍️ Medium: medium.com/@maulik-gupta
+
+---
+
+> I enjoy building products that sit at the intersection of software engineering, AI, and real-world impact.
